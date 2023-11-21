@@ -1,4 +1,4 @@
 # alarm
 
-[DEMO](andrecantuaria.github.io/alarm/)
+[DEMO](https://andrecantuaria.github.io/alarm/)
 
